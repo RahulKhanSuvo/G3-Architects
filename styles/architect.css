@@ -70,6 +70,8 @@ nav li a {
     font-size: 1.25rem;
     border: none;
     cursor: pointer;
+    margin-bottom: 50px;
+    margin-top: 32px;
 }
 .banner img{
     width: 100%;
